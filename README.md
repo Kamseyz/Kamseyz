@@ -1,26 +1,26 @@
 # 👨🏾‍💻 Backend Developer ✨  
 I code. Respectfully!! 🫡  
 
-Greetings, esteemed colleagues! 🌐 As a **Backend Developer**, I take pride in building APIs and systems that power modern apps — clean, secure, and scalable. My craft is still evolving, but every project is a new brushstroke on the canvas of innovation.  
-
+Greetings I'm DIKE EBUKA CHRISTOPHER, a **Backend Developer**, I take pride in building APIs and systems that power modern apps clean, secure, and scalable.
+My craft is constantly evolving, i am still learning tho, and every day I strive to become a better developer.
 ---
 
 ## ⚡️ My Code Craft  
 
-I write code with clarity and purpose — sometimes fueled by coffee, always driven by curiosity.  
+I write code with clarity and purpose and i am always driven by curiosity.  
 Your app won’t just run, it will *flow*. ✨  
 
-I leave behind trails of efficient syntax ⚡️ and an ever-growing arsenal of tools.  
+I leave behind trails of efficient syntax ⚡️ and an ever growing arsenal of tools.  
 
 ---
 
-## 💥 My Professional Arsenal  
+## 💥 Tools i have Work with
 
-**Backend Expertise**  
+**Backend**  
 - 🐍 Python (Django, Django REST Framework)  
 - 🔐 RESTful APIs  
 
-**Frontend Flavor**  
+**Frontend**  
 - ⚛️ React (still sharpening my skills 🔧)  
 - 🎨 TailwindCSS, Bootstrap, CSS  
 
@@ -44,9 +44,9 @@ I leave behind trails of efficient syntax ⚡️ and an ever-growing arsenal of 
 
 ---
 
-## 🧙🏾‍♂️ My Developer Sorcery  
+## 🧙🏾‍♂️ What i am into 
 
-- Crafting APIs that are smooth and intuitive  
+- Building APIs that are smooth and intuitive  
 - Building backend systems that scale  
 - Experimenting with UI magic via React + Tailwind  
 - Growing with every push, every pull, every merge ✨  
@@ -57,12 +57,12 @@ I leave behind trails of efficient syntax ⚡️ and an ever-growing arsenal of 
 
 - Backend projects (Django + DRF)  
 - APIs that power real-world apps  
-- Full-stack collabs (React + Django)  
-- Learning PostgreSQL faster 🐘  
+- Full-stack collabs (React + Django)   
 
 ---
 
 ## 📬 P.S.  
 
-If it pays the bills, mail me ASAP (🤫).  
+If it pays the bills, message me ASAP (🤫).  
 Join me in the pursuit of excellence, where every commit is a step toward greatness. 🚀  
+
