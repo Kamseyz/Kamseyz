@@ -1,68 +1,67 @@
 # 👨🏾‍💻 Backend Developer ✨  
 I code. Respectfully!! 🫡  
 
-Greetings I'm DIKE EBUKA CHRISTOPHER, a **Backend Developer**, I take pride in building APIs and systems that power modern apps clean, secure, and scalable.
-My craft is constantly evolving, i am still learning tho, and every day I strive to become a better developer.
+Greetings! I'm DIKE EBUKA CHRISTOPHER, a **Backend Developer** and instructor. I take pride in building APIs and systems that power modern apps—keeping them clean, secure, and scalable.  
+My craft is constantly evolving. I am always learning, and every day I strive to become a better software engineer.  
+
 ---
 
 ## ⚡️ My Code Craft  
 
-I write code with clarity and purpose and i am always driven by curiosity.  
-Your app won’t just run, it will *flow*. ✨  
+I write code with clarity and purpose, driven by relentless curiosity.  
+Your app won’t just run; it will *flow*. ✨  
 
-I leave behind trails of efficient syntax ⚡️ and an ever growing arsenal of tools.  
+I leave behind trails of efficient syntax ⚡️ and an ever-growing arsenal of tools.  
 
 ---
 
-## 💥 Tools i have Work with
+## 💥 Tools I Work With  
 
-**Backend**  
-- 🐍 Python (Django, Django REST Framework)  
-- 🔐 RESTful APIs  
+**Backend & Architecture** - 🐍 Python (Django, Django REST Framework)  
+- 🐹 Go (Golang)  
+- 🔐 RESTful APIs & System Architecture  
+- ⚙️ Async & Task Queues: Redis, Celery, Django-Q2  
 
-**Frontend**  
+**Frontend (The Magic without the bloat)** - 🔥 HTMX & Alpine.js  
+- 🎨 TailwindCSS, DaisyUI, Bootstrap, CSS  
 - ⚛️ React (still sharpening my skills 🔧)  
-- 🎨 TailwindCSS, Bootstrap, CSS  
 
-**Databases Wizardry (loading…)**  
-- 🐘 PostgreSQL (next on my roadmap 🚀)  
+**Database Wizardry** - 🐘 PostgreSQL  
 - 🗄️ SQLite / MySQL basics  
 
-**Bonus Tools**  
-- 🛠️ Git & GitHub  
+**Bonus Tools** - 🛠️ Git & GitHub  
 - 🔄 Postman  
 - 🖥️ VS Code  
 
 ---
 
-## 📊 Stats  
+## 📊 Real-Time Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamseyz&show_icons=true&theme=dark&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamseyz&layout=compact&theme=dark&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kamseyz&theme=dark&hide_border=true)  
-![Trophy](https://github-profile-trophy.vercel.app/?username=Kamseyz&theme=darkhub&no-frame=true&row=1)  
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kamseyz&layout=compact&theme=dark&hide_border=true)](https://wakatime.com/@Kamseyz)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kamseyz&theme=dark&hide_border=true)](https://github.com/Kamseyz)
 
 ---
 
-## 🧙🏾‍♂️ What i am into 
+## 🧙🏾‍♂️ What I Am Into  
 
-- Building APIs that are smooth and intuitive  
-- Building backend systems that scale  
-- Experimenting with UI magic via React + Tailwind  
+- Building smooth, intuitive, and secure APIs  
+- Architecting backend systems and multi-tenant platforms that scale  
+- Instructing and mentoring the next wave of developers
+- Experimenting with UI magic via HTMX or React + Tailwind  
 - Growing with every push, every pull, every merge ✨  
 
 ---
 
-## 🫱🏾‍🫲🏾 Need Help With  
+## 🫱🏾‍🫲🏾 Need Help With?  
 
-- Backend projects (Django + DRF)  
-- APIs that power real-world apps  
-- Full-stack collabs (React + Django)   
+- Backend architecture & optimization (Django + DRF, Go)  
+- APIs that power robust real-world applications  
+- Seamless frontend integrations  
 
 ---
 
 ## 📬 P.S.  
 
 If it pays the bills, message me ASAP (🤫).  
-Join me in the pursuit of excellence, where every commit is a step toward greatness. 🚀  
-
+Join me in the pursuit of excellence, where every commit is a step toward greatness. 🚀
